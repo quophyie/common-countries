@@ -5,11 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/christoz/sorted-countries.git"
+    "url": "https://github.com/c8management/common-countries"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Christos Ziogas",
+  "author": "C8 management",
   "license": "ISC"
 }
