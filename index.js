@@ -1,5 +1,6 @@
-var countries = require('./countries.json');
-var sortedCountries = Object.keys(countries).map(function (ccode) {
+import countries from './countries.json'
+
+const sortedCountries = Object.keys(countries).map(function (ccode) {
   return {
     ccode: ccode,
     cname: countries[ccode]
