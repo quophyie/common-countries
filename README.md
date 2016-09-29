@@ -1,4 +1,3 @@
 # sorted-countries
 sorted alphabetically world countries array
-
-var sortedCountries = require('./countries/');
+Usage: `var sortedCountries = require('./countries/');`
